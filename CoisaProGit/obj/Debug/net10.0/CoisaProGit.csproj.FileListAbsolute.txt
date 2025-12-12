@@ -1,0 +1,14 @@
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.AssemblyInfoInputs.cache
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.AssemblyInfo.cs
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.csproj.CoreCompileInputs.cache
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\bin\Debug\net10.0\CoisaProGit.exe
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\bin\Debug\net10.0\CoisaProGit.deps.json
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\bin\Debug\net10.0\CoisaProGit.runtimeconfig.json
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\bin\Debug\net10.0\CoisaProGit.dll
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\bin\Debug\net10.0\CoisaProGit.pdb
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.dll
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\refint\CoisaProGit.dll
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.pdb
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\CoisaProGit.genruntimeconfig.cache
+C:\Users\lorie\Desktop\Programação\CoisaProGit\CoisaProGit\obj\Debug\net10.0\ref\CoisaProGit.dll
